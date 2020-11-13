@@ -1,0 +1,32 @@
+h1{
+    color:#ff15ff;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align:  center;
+    background-color: green;
+}
+h2{
+    color:#ff16ff;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align:  center;
+    background-color: blue;
+}
+h3{
+    color:#ff16ff;
+    font-weight: normal;
+    font-family: "Impact";
+}
+
+
+p{
+  color:#ff15ff;
+    font-weight: normal;
+    font-family: "Impact";
+}
+
+body{
+    background-image: url(../images/06.jpg);
+    background-repeat:repeat-y;
+    
+}
