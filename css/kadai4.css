@@ -1,0 +1,58 @@
+table{
+    background-color:yellow
+        
+}
+img{
+    width:50%;
+    height:50%;
+    
+}
+
+
+h1{
+    color:#ffffff;
+    
+    font-weight:normal;
+    font-family:"Impact";
+    text-align:center;
+    background-color:red;
+}
+
+
+
+
+
+
+h2#volley{
+    color:#00ffff;
+    
+    font-weight:normal;
+    font-family:"Impact";
+    text-align:center;
+    background-color:indigo;
+    
+}
+
+
+h2{
+   color:#ff0000; 
+    
+   font-weight:normal;
+   font-family:"Impact"; 
+   text-align:center; 
+   background-color:black;
+    
+}
+
+.rink{
+    color:#000000;
+    font-weight:normal;
+    font-family:"Impact";
+    text-align:center;
+    background-color:gold;   
+}
+body{
+    
+    background-image:url(../images/back5.jpeg);
+    
+}
