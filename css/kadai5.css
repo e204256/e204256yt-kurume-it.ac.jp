@@ -1,0 +1,93 @@
+div.title{
+   width:1000px; 
+   height:50px; 
+    background-color:gray; 
+    font-size:20px;
+    font-family:"Impact";
+    margin-bottom:20px;
+    
+}
+
+div.onion{
+          width: 1000px 
+    height:320px;
+    background-color: aliceblue;
+    font-family:"Impact";
+    margin-bottom:20px;
+    font-size:0px;
+}
+
+
+
+
+
+
+div.pan1{
+    display:inline-block;
+    vertical-align:top;
+    width:250px; 
+    height:320px;
+    background-color: aqua;
+    margin-right:50px;
+    font-size:0px;
+}
+
+div.pan2{
+    display:inline-block;
+    vertical-align:top;
+    width:700px; 
+    height:320px;
+    background-color: aqua;
+    font-size:0px;
+}
+
+div.pon1{
+    display:block;
+    width:250px; 
+    height:100px;
+    background-color: rebeccapurple;
+    font-size:20px;   
+    margin-bottom:10px;
+}
+
+div.pon2{
+    display:block;
+    width:250px; 
+    height:100px;
+    background-color: rebeccapurple;
+    font-size:20px;   
+    margin-bottom:10px;
+}
+
+div.pon3{
+    display:block;
+    width:250px; 
+    height:100px;
+    background-color: rebeccapurple;
+    font-size:20px;   
+}
+
+div.pen1{
+    display:block;
+    width:700px; 
+    height:300px;
+    background-color: yellowgreen;
+    font-size:0px; 
+}
+
+div.pen2{
+    display:block;
+    width:700px; 
+    height:20px;
+    background-color: yellow;
+    font-size:0px; 
+}
+
+div.footer{
+    width:1000px; 
+    height:40px;
+    background-color: gray;
+    font-size:20px; 
+    font-family: "Impact";
+    text-align:right;
+}
